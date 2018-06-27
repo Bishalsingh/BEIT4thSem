@@ -1,0 +1,3 @@
+interface Demo{
+float area();
+}
