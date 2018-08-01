@@ -5,8 +5,7 @@ public class First extends Applet{
   
 public void paint(Graphics g){  
 g.drawString("welcome",150,150);  
-}  
-  
+}   
 }
 
 /** public abstract void drawString(String str, int x, int y): is used to draw the specified string.

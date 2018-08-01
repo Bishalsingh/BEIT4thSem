@@ -1,6 +1,6 @@
 import java.awt.*;
 import java.applet.*;
-public class flag extends Applet
+public class Flag extends Applet
 
 {
 public void paint(Graphics g)
